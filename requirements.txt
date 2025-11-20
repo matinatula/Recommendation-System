@@ -1,8 +1,19 @@
-sqlalchemy==2.0.44
-psycopg2-binary==2.9.11
-python-dotenv==1.2.1
-numpy==2.3.3
-pandas==2.3.3
-scipy==1.16.2
-scikit-learn==1.7.2
-implicit==0.8.8   # ALS library for collaborative filtering
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+greenlet @ file:///Users/runner/miniforge3/conda-bld/greenlet_1756752181209/work
+implicit @ file:///Users/runner/miniforge3/conda-bld/implicit_1762165792229/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1756321760188/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1747544633931/work/dist/numpy-2.2.6-cp310-cp310-macosx_11_0_arm64.whl#sha256=50a17562ef677de6531058e998e32487919c216e19ca4e1bdd86b0e1262251c1
+pandas @ file:///Users/runner/miniforge3/conda-bld/pandas_1759265743841/work
+psycopg2 @ file:///Users/runner/miniforge3/conda-bld/psycopg2-split_1758891484570/work
+psycopg2-binary @ file:///home/conda/feedstock_root/build_artifacts/psycopg2-split_1750255432256/work/psycopg2-binary
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dateutil_1751104122/work
+python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dotenv_1761503229/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1742920838005/work
+scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1757406234687/work/dist/scikit_learn-1.7.2-cp310-cp310-macosx_11_0_arm64.whl#sha256=bb66f143da543e6bda8f24b531737ff6db838b0300a8c5847c06bc7b08fff666
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy-split_1739790705989/work/dist/scipy-1.15.2-cp310-cp310-macosx_11_0_arm64.whl#sha256=7edcf528c303a2d0aa5afa5be176589f18a84d21a8d85f1972553ab95cab0933
+six @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_six_1753199211/work
+SQLAlchemy @ file:///Users/runner/miniforge3/conda-bld/sqlalchemy_1760114641452/work
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1741878222898/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1735661334605/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1756220668/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1742745135198/work
